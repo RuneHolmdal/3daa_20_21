@@ -1,0 +1,10 @@
+C:\Users\rholm\source\repos\Adressebok3DAA_21\Adressebok3DAA_21\bin\Debug\Adressebok3DAA_21.exe.config
+C:\Users\rholm\source\repos\Adressebok3DAA_21\Adressebok3DAA_21\bin\Debug\Adressebok3DAA_21.exe
+C:\Users\rholm\source\repos\Adressebok3DAA_21\Adressebok3DAA_21\bin\Debug\Adressebok3DAA_21.pdb
+C:\Users\rholm\source\repos\Adressebok3DAA_21\Adressebok3DAA_21\obj\Debug\Adressebok3DAA_21.csprojAssemblyReference.cache
+C:\Users\rholm\source\repos\Adressebok3DAA_21\Adressebok3DAA_21\obj\Debug\Adressebok3DAA_21.Form1.resources
+C:\Users\rholm\source\repos\Adressebok3DAA_21\Adressebok3DAA_21\obj\Debug\Adressebok3DAA_21.Properties.Resources.resources
+C:\Users\rholm\source\repos\Adressebok3DAA_21\Adressebok3DAA_21\obj\Debug\Adressebok3DAA_21.csproj.GenerateResource.cache
+C:\Users\rholm\source\repos\Adressebok3DAA_21\Adressebok3DAA_21\obj\Debug\Adressebok3DAA_21.csproj.CoreCompileInputs.cache
+C:\Users\rholm\source\repos\Adressebok3DAA_21\Adressebok3DAA_21\obj\Debug\Adressebok3DAA_21.exe
+C:\Users\rholm\source\repos\Adressebok3DAA_21\Adressebok3DAA_21\obj\Debug\Adressebok3DAA_21.pdb
